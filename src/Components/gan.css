@@ -1,0 +1,27 @@
+.gen_heading{
+    /* border: 2px solid red; */
+    display:"flex";
+    padding:"10px";
+    align-items: flex-start;
+    /* float:"left"; */
+   
+    /* justify-content: space-between; */
+
+}
+#gan{
+    background-color: rgb(230, 151, 151);
+}
+#summ{
+    text-decoration: solid;
+    font-weight: 300;
+    color: white;
+}
+
+#gen_textarea{
+    background-color: #474d66;
+    font-size: 18px;
+    font-family: consolas;
+}
+#gen_textarea:focus{
+    color: white;
+}
